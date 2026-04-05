@@ -1,7 +1,7 @@
 # Просто скопируйте эту команду и вставьте в терминал вашего сервера (работает на Ubuntu/Debian/CentOS):
     wget -O gotg.sh https://raw.githubusercontent.com/kir460/gotg/main/gotg.sh
-chmod +x gotg.sh
-sudo ./gotg.sh
+    chmod +x gotg.sh
+    sudo ./gotg.sh
 После установки управление скриптом командой:
     gotelegram
 1.11 Далее процесс выглядит так: 
